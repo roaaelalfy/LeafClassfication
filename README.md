@@ -4,7 +4,7 @@
 
 <br>
 
-> Before running make sure to install the required packages by the command below <br> `pip install -r requirements.txt`
+
 
 ## Overview
 
