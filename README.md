@@ -71,10 +71,6 @@ This project focuses on leaf classification using a neural network architecture,
    - Regularization (L2 regularization)
    - Learning rate and learning rate scheduler
 
-4. **TensorBoard Monitoring:**
-
-   - Utilize TensorBoard to monitor training progress and attach screenshots of training curves (accuracy) to the report.
-
 5. **Evaluation Function:**
    - Write an evaluation function to assess the model's performance on the train/test set.
 
